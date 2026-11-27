@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rationcardofficernearme.pages.dev/sitemap.xml
